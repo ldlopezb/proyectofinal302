@@ -175,7 +175,7 @@
            <string role="key" value="anchors_linked_from_fields"></string>
            <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/LOGO_SLOGAN.png&quot; alt=&quot;&quot; width=&quot;1280&quot; height=&quot;720&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/LOGO_SLOGAN.png&quot; width=&quot;711&quot; height=&quot;400&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
            <int value="4"></int>
            <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -454,7 +454,7 @@
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="91">
+      <instance class="exe.engine.node.Node" reference="96">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Contenido"></unicode>
@@ -705,7 +705,7 @@
                             <string role="key" value="_id"></string>
                             <unicode value="3_129_2.1"></unicode>
                             <string role="key" value="_imageResource"></string>
-                            <instance class="exe.engine.resource.Resource" reference="48">
+                            <instance class="exe.engine.resource.Resource" reference="53">
                              <dictionary>
                               <string role="key" value="_idevice"></string>
                               <reference key="11"></reference>
@@ -1073,7 +1073,11 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <dictionary></dictionary>
                                 <string role="key" value="content_w_resourcePaths"></string>
                                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;El gusto nos permite percibir los sabores. El órgano del sentido del gusto es la lengua cuya superficie está cubierta por ciento de salientes denominadas papilas gustativas. Dentro de estas se encuentran los botones gustativos, que son estructuras en forma de bolsa que contienen quimiorreceptores capaces de diferenciar los sabores dulce, salado, amargo y ácido.​&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;Las papilas gustativas presentan diferentes formas y ocupan zonas determinadas de la lengua. Aunque todos los tipos de papilas, sin importar su forma, pueden reconocer todos los sabores, cada una es más sensible a un determinado sabor. Esto hace que la percepción final de los alimentos sea el resultado de la acción conjunta de todas las papilas gustativas.&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;Las papilas gustativas presentan diferentes formas y ocupan zonas determinadas de la lengua. Aunque todos los tipos de papilas, sin importar su forma, pueden reconocer todos los sabores, cada una es más sensible a un determinado sabor. Esto hace que la percepción final de los alimentos sea el resultado de la acción conjunta de todas las papilas gustativas.&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 1210px;&quot;&gt;&lt;img src=&quot;resources/Gusto.jpg&quot; alt=&quot;&quot; width=&quot;1210&quot; height=&quot;1129&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt; Color, A. B. C. (2020, julio 21)&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                                 <int value="4"></int>
                                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1086,7 +1090,60 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <instance class="exe.engine.galleryidevice.GalleryImages">
                                  <dictionary>
                                   <string role="key" value=".listitems"></string>
-                                  <list></list>
+                                  <list>
+                                   <instance class="exe.engine.galleryidevice.GalleryImage">
+                                    <dictionary>
+                                     <string role="key" value="_caption"></string>
+                                     <instance class="exe.engine.field.TextField">
+                                      <dictionary>
+                                       <string role="key" value="_id"></string>
+                                       <int value="262"></int>
+                                       <string role="key" value="_idevice"></string>
+                                       <none></none>
+                                       <string role="key" value="_instruc"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="_name"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="content"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                       <int value="4"></int>
+                                      </dictionary>
+                                     </instance>
+                                     <string role="key" value="_id"></string>
+                                     <unicode value="14_140_2.0"></unicode>
+                                     <string role="key" value="_imageResource"></string>
+                                     <instance class="exe.engine.resource.Resource" reference="22">
+                                      <dictionary>
+                                       <string role="key" value="_idevice"></string>
+                                       <reference key="19"></reference>
+                                       <string role="key" value="_package"></string>
+                                       <reference key="2"></reference>
+                                       <string role="key" value="_storageName"></string>
+                                       <string value="Gusto.jpg"></string>
+                                       <string role="key" value="_userName"></string>
+                                       <string value="c:\\users\\ludal\\appdata\\local\\temp\\tmpqmhua3.eXe\\previews\\allyourbase\\Gusto.jpg"></string>
+                                       <string role="key" value="checksum"></string>
+                                       <string value="8eac5618235d537179ad2206af39d7c0"></string>
+                                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="warningMsg"></string>
+                                       <string value=""></string>
+                                      </dictionary>
+                                     </instance>
+                                     <string role="key" value="_parent"></string>
+                                     <reference key="20"></reference>
+                                     <string role="key" value="_thumbnailResource"></string>
+                                     <none></none>
+                                     <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                                     <int value="3"></int>
+                                     <string role="key" value="makeThumbnail"></string>
+                                     <bool value="0"></bool>
+                                    </dictionary>
+                                   </instance>
+                                  </list>
                                   <string role="key" value="idevice"></string>
                                   <reference key="20"></reference>
                                  </dictionary>
@@ -1094,9 +1151,9 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <string role="key" value="intlinks_to_anchors"></string>
                                 <dictionary></dictionary>
                                 <string role="key" value="nextImageId"></string>
-                                <int value="0"></int>
+                                <int value="1"></int>
                                 <string role="key" value="parentNode"></string>
-                                <none></none>
+                                <reference key="21"></reference>
                                </dictionary>
                               </instance>
                              </list>
@@ -1119,12 +1176,14 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="undo"></string>
                              <bool value="1"></bool>
                              <string role="key" value="userResources"></string>
-                             <list></list>
+                             <list>
+                              <reference key="22"></reference>
+                             </list>
                              <string role="key" value="version"></string>
                              <int value="0"></int>
                             </dictionary>
                            </instance>
-                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="22">
+                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="23">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value="ACTIVIDAD: Diviértete armando el rompecabezas."></unicode>
@@ -1148,12 +1207,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="11"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="23">
+                              <instance class="exe.engine.field.TextAreaField" reference="24">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="160_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="22"></reference>
+                                <reference key="23"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <unicode value="Describe the tasks the learners should complete."></unicode>
                                 <string role="key" value="_name"></string>
@@ -1178,7 +1237,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                   <string role="key" value=".listitems"></string>
                                   <list></list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="23"></reference>
+                                  <reference key="24"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
@@ -1238,13 +1297,13 @@ that may help or hinder the learner in the performance of the task."></unicode>
                          </dictionary>
                         </instance>
                         <unicode role="key" value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%201:El%20o%C3%ADdo%E2%80%8B#auto_top"></unicode>
-                        <instance class="exe.engine.node.Node" reference="26">
+                        <instance class="exe.engine.node.Node" reference="27">
                          <dictionary>
                           <string role="key" value="_title"></string>
                           <unicode value="El oído​"></unicode>
                           <string role="key" value="idevices"></string>
                           <list>
-                           <instance class="exe.engine.jsidevice.JsIdevice" reference="24">
+                           <instance class="exe.engine.jsidevice.JsIdevice" reference="25">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value=""></unicode>
@@ -1305,12 +1364,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="1"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="25">
+                              <instance class="exe.engine.field.TextAreaField" reference="26">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="137_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="24"></reference>
+                                <reference key="25"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <string value=""></string>
                                 <string role="key" value="_name"></string>
@@ -1320,7 +1379,11 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <string role="key" value="anchors_linked_from_fields"></string>
                                 <dictionary></dictionary>
                                 <string role="key" value="content_w_resourcePaths"></string>
-                                <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;El sentido del oído nos permite percibir los sonidos que se producen a nuestro alrededor y también nuestra posición en el espacio, lo que nos permite mantenernos de pie, caminar o permanecer sentados sin caer. Los órganos de la audición y el equilibrio son los oídos.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                                <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;El sentido del oído nos permite percibir los sonidos que se producen a nuestro alrededor y también nuestra posición en el espacio, lo que nos permite mantenernos de pie, caminar o permanecer sentados sin caer. Los órganos de la audición y el equilibrio son los oídos.&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 501px;&quot;&gt;&lt;img src=&quot;resources/Oido.png&quot; alt=&quot;&quot; width=&quot;501&quot; height=&quot;327&quot; hspace=&quot;auto&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt; El oído. (s/f). Kidshealth.org.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                                 <int value="4"></int>
                                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1333,17 +1396,70 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <instance class="exe.engine.galleryidevice.GalleryImages">
                                  <dictionary>
                                   <string role="key" value=".listitems"></string>
-                                  <list></list>
+                                  <list>
+                                   <instance class="exe.engine.galleryidevice.GalleryImage">
+                                    <dictionary>
+                                     <string role="key" value="_caption"></string>
+                                     <instance class="exe.engine.field.TextField">
+                                      <dictionary>
+                                       <string role="key" value="_id"></string>
+                                       <int value="259"></int>
+                                       <string role="key" value="_idevice"></string>
+                                       <none></none>
+                                       <string role="key" value="_instruc"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="_name"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="content"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                       <int value="4"></int>
+                                      </dictionary>
+                                     </instance>
+                                     <string role="key" value="_id"></string>
+                                     <unicode value="11_137_2.0"></unicode>
+                                     <string role="key" value="_imageResource"></string>
+                                     <instance class="exe.engine.resource.Resource" reference="28">
+                                      <dictionary>
+                                       <string role="key" value="_idevice"></string>
+                                       <reference key="25"></reference>
+                                       <string role="key" value="_package"></string>
+                                       <reference key="2"></reference>
+                                       <string role="key" value="_storageName"></string>
+                                       <string value="Oido.png"></string>
+                                       <string role="key" value="_userName"></string>
+                                       <string value="c:\\users\\ludal\\appdata\\local\\temp\\tmpqmhua3.eXe\\previews\\allyourbase\\Oido.png"></string>
+                                       <string role="key" value="checksum"></string>
+                                       <string value="3777e19d031fb69fd822faf4bdba1975"></string>
+                                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="warningMsg"></string>
+                                       <string value=""></string>
+                                      </dictionary>
+                                     </instance>
+                                     <string role="key" value="_parent"></string>
+                                     <reference key="26"></reference>
+                                     <string role="key" value="_thumbnailResource"></string>
+                                     <none></none>
+                                     <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                                     <int value="3"></int>
+                                     <string role="key" value="makeThumbnail"></string>
+                                     <bool value="0"></bool>
+                                    </dictionary>
+                                   </instance>
+                                  </list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="25"></reference>
+                                  <reference key="26"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
                                 <dictionary></dictionary>
                                 <string role="key" value="nextImageId"></string>
-                                <int value="0"></int>
+                                <int value="1"></int>
                                 <string role="key" value="parentNode"></string>
-                                <none></none>
+                                <reference key="27"></reference>
                                </dictionary>
                               </instance>
                              </list>
@@ -1360,18 +1476,20 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <string value=""></string>
                              <string role="key" value="parentNode"></string>
-                             <reference key="26"></reference>
+                             <reference key="27"></reference>
                              <string role="key" value="systemResources"></string>
                              <list></list>
                              <string role="key" value="undo"></string>
                              <bool value="1"></bool>
                              <string role="key" value="userResources"></string>
-                             <list></list>
+                             <list>
+                              <reference key="28"></reference>
+                             </list>
                              <string role="key" value="version"></string>
                              <int value="0"></int>
                             </dictionary>
                            </instance>
-                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="27">
+                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="29">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value="ACTIVIDAD: Ejercita tu mente buscando 10 palabras en la sopa de letras."></unicode>
@@ -1395,12 +1513,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="11"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="28">
+                              <instance class="exe.engine.field.TextAreaField" reference="30">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="157_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="27"></reference>
+                                <reference key="29"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <unicode value="Describe the tasks the learners should complete."></unicode>
                                 <string role="key" value="_name"></string>
@@ -1425,7 +1543,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                   <string role="key" value=".listitems"></string>
                                   <list></list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="28"></reference>
+                                  <reference key="30"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
@@ -1448,7 +1566,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <unicode value="activity"></unicode>
                              <string role="key" value="parentNode"></string>
-                             <reference key="26"></reference>
+                             <reference key="27"></reference>
                              <string role="key" value="systemResources"></string>
                              <list>
                               <string value="common.js"></string>
@@ -1485,13 +1603,13 @@ that may help or hinder the learner in the performance of the task."></unicode>
                          </dictionary>
                         </instance>
                         <unicode role="key" value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%201:El%20olfato#auto_top"></unicode>
-                        <instance class="exe.engine.node.Node" reference="31">
+                        <instance class="exe.engine.node.Node" reference="33">
                          <dictionary>
                           <string role="key" value="_title"></string>
                           <unicode value="El olfato"></unicode>
                           <string role="key" value="idevices"></string>
                           <list>
-                           <instance class="exe.engine.jsidevice.JsIdevice" reference="29">
+                           <instance class="exe.engine.jsidevice.JsIdevice" reference="31">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value=""></unicode>
@@ -1552,12 +1670,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="1"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="30">
+                              <instance class="exe.engine.field.TextAreaField" reference="32">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="139_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="29"></reference>
+                                <reference key="31"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <string value=""></string>
                                 <string role="key" value="_name"></string>
@@ -1569,7 +1687,11 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <string role="key" value="content_w_resourcePaths"></string>
                                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;El olfato nos permite percibir los aromas. El órgano del sentido del olfato es la nariz.​&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;La nariz está conformada por dos orificios llamados fosas nasales, separadas por un tabique nasal constituido de hueso y cartílago.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Internamente se encuentran dos zonas una inferior o pituitaria roja que calienta el aire que inhalamos al respirar y otra superior o pituitaria amarilla, donde se ubican las glándulas encargadas de la producción de moco y los receptores olfativos que detectan la presencia de sustancias químicas, por lo que son denominadas quimiorreceptores.&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p style=&quot;text-align: justify;&quot;&gt;Internamente se encuentran dos zonas una inferior o pituitaria roja que calienta el aire que inhalamos al respirar y otra superior o pituitaria amarilla, donde se ubican las glándulas encargadas de la producción de moco y los receptores olfativos que detectan la presencia de sustancias químicas, por lo que son denominadas quimiorreceptores.&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 495px;&quot;&gt;&lt;img src=&quot;resources/Olfato.jpg&quot; alt=&quot;&quot; width=&quot;495&quot; height=&quot;328&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt; Sentido del Olfato - Información, cómo funciona, cuidados. (s/f)&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                                 <int value="4"></int>
                                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1582,17 +1704,70 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <instance class="exe.engine.galleryidevice.GalleryImages">
                                  <dictionary>
                                   <string role="key" value=".listitems"></string>
-                                  <list></list>
+                                  <list>
+                                   <instance class="exe.engine.galleryidevice.GalleryImage">
+                                    <dictionary>
+                                     <string role="key" value="_caption"></string>
+                                     <instance class="exe.engine.field.TextField">
+                                      <dictionary>
+                                       <string role="key" value="_id"></string>
+                                       <int value="261"></int>
+                                       <string role="key" value="_idevice"></string>
+                                       <none></none>
+                                       <string role="key" value="_instruc"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="_name"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="content"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                       <int value="4"></int>
+                                      </dictionary>
+                                     </instance>
+                                     <string role="key" value="_id"></string>
+                                     <unicode value="13_139_2.0"></unicode>
+                                     <string role="key" value="_imageResource"></string>
+                                     <instance class="exe.engine.resource.Resource" reference="34">
+                                      <dictionary>
+                                       <string role="key" value="_idevice"></string>
+                                       <reference key="31"></reference>
+                                       <string role="key" value="_package"></string>
+                                       <reference key="2"></reference>
+                                       <string role="key" value="_storageName"></string>
+                                       <string value="Olfato.jpg"></string>
+                                       <string role="key" value="_userName"></string>
+                                       <string value="c:\\users\\ludal\\appdata\\local\\temp\\tmpqmhua3.eXe\\previews\\allyourbase\\Olfato.jpg"></string>
+                                       <string role="key" value="checksum"></string>
+                                       <string value="c94a2fa55d7bf189968398aa2d5a2ff8"></string>
+                                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="warningMsg"></string>
+                                       <string value=""></string>
+                                      </dictionary>
+                                     </instance>
+                                     <string role="key" value="_parent"></string>
+                                     <reference key="32"></reference>
+                                     <string role="key" value="_thumbnailResource"></string>
+                                     <none></none>
+                                     <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                                     <int value="3"></int>
+                                     <string role="key" value="makeThumbnail"></string>
+                                     <bool value="0"></bool>
+                                    </dictionary>
+                                   </instance>
+                                  </list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="30"></reference>
+                                  <reference key="32"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
                                 <dictionary></dictionary>
                                 <string role="key" value="nextImageId"></string>
-                                <int value="0"></int>
+                                <int value="1"></int>
                                 <string role="key" value="parentNode"></string>
-                                <none></none>
+                                <reference key="33"></reference>
                                </dictionary>
                               </instance>
                              </list>
@@ -1609,18 +1784,20 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <string value=""></string>
                              <string role="key" value="parentNode"></string>
-                             <reference key="31"></reference>
+                             <reference key="33"></reference>
                              <string role="key" value="systemResources"></string>
                              <list></list>
                              <string role="key" value="undo"></string>
                              <bool value="1"></bool>
                              <string role="key" value="userResources"></string>
-                             <list></list>
+                             <list>
+                              <reference key="34"></reference>
+                             </list>
                              <string role="key" value="version"></string>
                              <int value="0"></int>
                             </dictionary>
                            </instance>
-                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="32">
+                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="35">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value="ACTIVIDAD: Pon a prueba tu memoria encontrando las parejas."></unicode>
@@ -1644,12 +1821,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="11"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="33">
+                              <instance class="exe.engine.field.TextAreaField" reference="36">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="159_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="32"></reference>
+                                <reference key="35"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <unicode value="Describe the tasks the learners should complete."></unicode>
                                 <string role="key" value="_name"></string>
@@ -1674,7 +1851,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                   <string role="key" value=".listitems"></string>
                                   <list></list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="33"></reference>
+                                  <reference key="36"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
@@ -1697,7 +1874,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <unicode value="activity"></unicode>
                              <string role="key" value="parentNode"></string>
-                             <reference key="31"></reference>
+                             <reference key="33"></reference>
                              <string role="key" value="systemResources"></string>
                              <list>
                               <string value="common.js"></string>
@@ -1734,13 +1911,13 @@ that may help or hinder the learner in the performance of the task."></unicode>
                          </dictionary>
                         </instance>
                         <unicode role="key" value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%201:El%20tacto#auto_top"></unicode>
-                        <instance class="exe.engine.node.Node" reference="36">
+                        <instance class="exe.engine.node.Node" reference="39">
                          <dictionary>
                           <string role="key" value="_title"></string>
                           <unicode value="El tacto"></unicode>
                           <string role="key" value="idevices"></string>
                           <list>
-                           <instance class="exe.engine.jsidevice.JsIdevice" reference="34">
+                           <instance class="exe.engine.jsidevice.JsIdevice" reference="37">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value=""></unicode>
@@ -1801,12 +1978,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="1"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="35">
+                              <instance class="exe.engine.field.TextAreaField" reference="38">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="138_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="34"></reference>
+                                <reference key="37"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <string value=""></string>
                                 <string role="key" value="_name"></string>
@@ -1816,7 +1993,11 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <string role="key" value="anchors_linked_from_fields"></string>
                                 <dictionary></dictionary>
                                 <string role="key" value="content_w_resourcePaths"></string>
-                                <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;El sentido del tacto nos permite percibir la temperatura, el dolor, la presión, la textura y la dureza. El órgano principal del tacto es la piel. La piel es el órgano más grande del cuerpo y está compuesto por tres capas: la epidermis, las dermis y la hipodermis.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                                <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;El sentido del tacto nos permite percibir la temperatura, el dolor, la presión, la textura y la dureza. El órgano principal del tacto es la piel. La piel es el órgano más grande del cuerpo y está compuesto por tres capas: la epidermis, las dermis y la hipodermis.&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 1688px;&quot;&gt;&lt;img src=&quot;resources/Tacto.jpg&quot; alt=&quot;&quot; width=&quot;1688&quot; height=&quot;1086&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt; (S/f). Researchgate.net&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                                 <int value="4"></int>
                                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1829,17 +2010,70 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <instance class="exe.engine.galleryidevice.GalleryImages">
                                  <dictionary>
                                   <string role="key" value=".listitems"></string>
-                                  <list></list>
+                                  <list>
+                                   <instance class="exe.engine.galleryidevice.GalleryImage">
+                                    <dictionary>
+                                     <string role="key" value="_caption"></string>
+                                     <instance class="exe.engine.field.TextField">
+                                      <dictionary>
+                                       <string role="key" value="_id"></string>
+                                       <int value="260"></int>
+                                       <string role="key" value="_idevice"></string>
+                                       <none></none>
+                                       <string role="key" value="_instruc"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="_name"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="content"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                       <int value="4"></int>
+                                      </dictionary>
+                                     </instance>
+                                     <string role="key" value="_id"></string>
+                                     <unicode value="12_138_2.0"></unicode>
+                                     <string role="key" value="_imageResource"></string>
+                                     <instance class="exe.engine.resource.Resource" reference="40">
+                                      <dictionary>
+                                       <string role="key" value="_idevice"></string>
+                                       <reference key="37"></reference>
+                                       <string role="key" value="_package"></string>
+                                       <reference key="2"></reference>
+                                       <string role="key" value="_storageName"></string>
+                                       <string value="Tacto.jpg"></string>
+                                       <string role="key" value="_userName"></string>
+                                       <string value="c:\\users\\ludal\\appdata\\local\\temp\\tmpqmhua3.eXe\\previews\\allyourbase\\Tacto.jpg"></string>
+                                       <string role="key" value="checksum"></string>
+                                       <string value="6a92ab6854cf6376f233de32f13578e8"></string>
+                                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="warningMsg"></string>
+                                       <string value=""></string>
+                                      </dictionary>
+                                     </instance>
+                                     <string role="key" value="_parent"></string>
+                                     <reference key="38"></reference>
+                                     <string role="key" value="_thumbnailResource"></string>
+                                     <none></none>
+                                     <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                                     <int value="3"></int>
+                                     <string role="key" value="makeThumbnail"></string>
+                                     <bool value="0"></bool>
+                                    </dictionary>
+                                   </instance>
+                                  </list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="35"></reference>
+                                  <reference key="38"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
                                 <dictionary></dictionary>
                                 <string role="key" value="nextImageId"></string>
-                                <int value="0"></int>
+                                <int value="1"></int>
                                 <string role="key" value="parentNode"></string>
-                                <none></none>
+                                <reference key="39"></reference>
                                </dictionary>
                               </instance>
                              </list>
@@ -1856,18 +2090,20 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <string value=""></string>
                              <string role="key" value="parentNode"></string>
-                             <reference key="36"></reference>
+                             <reference key="39"></reference>
                              <string role="key" value="systemResources"></string>
                              <list></list>
                              <string role="key" value="undo"></string>
                              <bool value="1"></bool>
                              <string role="key" value="userResources"></string>
-                             <list></list>
+                             <list>
+                              <reference key="40"></reference>
+                             </list>
                              <string role="key" value="version"></string>
                              <int value="0"></int>
                             </dictionary>
                            </instance>
-                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="37">
+                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="41">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value="ACTIVIDAD: Descubre las palabras teniendo en cuenta las pistas dadas."></unicode>
@@ -1891,12 +2127,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="11"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="38">
+                              <instance class="exe.engine.field.TextAreaField" reference="42">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="158_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="37"></reference>
+                                <reference key="41"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <unicode value="Describe the tasks the learners should complete."></unicode>
                                 <string role="key" value="_name"></string>
@@ -1921,7 +2157,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                   <string role="key" value=".listitems"></string>
                                   <list></list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="38"></reference>
+                                  <reference key="42"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
@@ -1944,7 +2180,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <unicode value="activity"></unicode>
                              <string role="key" value="parentNode"></string>
-                             <reference key="36"></reference>
+                             <reference key="39"></reference>
                              <string role="key" value="systemResources"></string>
                              <list>
                               <string value="common.js"></string>
@@ -1981,13 +2217,13 @@ that may help or hinder the learner in the performance of the task."></unicode>
                          </dictionary>
                         </instance>
                         <unicode role="key" value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%201:La%20vista%E2%80%8B#auto_top"></unicode>
-                        <instance class="exe.engine.node.Node" reference="41">
+                        <instance class="exe.engine.node.Node" reference="45">
                          <dictionary>
                           <string role="key" value="_title"></string>
                           <unicode value="La vista​"></unicode>
                           <string role="key" value="idevices"></string>
                           <list>
-                           <instance class="exe.engine.jsidevice.JsIdevice" reference="39">
+                           <instance class="exe.engine.jsidevice.JsIdevice" reference="43">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value=""></unicode>
@@ -2048,12 +2284,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="1"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="40">
+                              <instance class="exe.engine.field.TextAreaField" reference="44">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="136_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="39"></reference>
+                                <reference key="43"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <string value=""></string>
                                 <string role="key" value="_name"></string>
@@ -2063,7 +2299,11 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <string role="key" value="anchors_linked_from_fields"></string>
                                 <dictionary></dictionary>
                                 <string role="key" value="content_w_resourcePaths"></string>
-                                <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;El sentido de la vista hace que percibamos la luz y nuestro cerebro forme imágenes con ella, de manera que podamos captar la forma, el color y el tamaño de los objetos, su movimiento y la distancia a la que se encuentran. Los órganos de la vista son los ojos.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                                <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;El sentido de la vista hace que percibamos la luz y nuestro cerebro forme imágenes con ella, de manera que podamos captar la forma, el color y el tamaño de los objetos, su movimiento y la distancia a la que se encuentran. Los órganos de la vista son los ojos.&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 378px;&quot;&gt;&lt;img src=&quot;resources/Vista.jpg&quot; alt=&quot;&quot; width=&quot;378&quot; height=&quot;255&quot; hspace=&quot;auto&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;Estructuras del ojo (vistas frontal y lateral). (s/f)&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                                 <int value="4"></int>
                                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2076,17 +2316,70 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <instance class="exe.engine.galleryidevice.GalleryImages">
                                  <dictionary>
                                   <string role="key" value=".listitems"></string>
-                                  <list></list>
+                                  <list>
+                                   <instance class="exe.engine.galleryidevice.GalleryImage">
+                                    <dictionary>
+                                     <string role="key" value="_caption"></string>
+                                     <instance class="exe.engine.field.TextField">
+                                      <dictionary>
+                                       <string role="key" value="_id"></string>
+                                       <int value="258"></int>
+                                       <string role="key" value="_idevice"></string>
+                                       <none></none>
+                                       <string role="key" value="_instruc"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="_name"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="content"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                       <int value="4"></int>
+                                      </dictionary>
+                                     </instance>
+                                     <string role="key" value="_id"></string>
+                                     <unicode value="10_136_2.0"></unicode>
+                                     <string role="key" value="_imageResource"></string>
+                                     <instance class="exe.engine.resource.Resource" reference="46">
+                                      <dictionary>
+                                       <string role="key" value="_idevice"></string>
+                                       <reference key="43"></reference>
+                                       <string role="key" value="_package"></string>
+                                       <reference key="2"></reference>
+                                       <string role="key" value="_storageName"></string>
+                                       <string value="Vista.jpg"></string>
+                                       <string role="key" value="_userName"></string>
+                                       <string value="c:\\users\\ludal\\appdata\\local\\temp\\tmpqmhua3.eXe\\previews\\allyourbase\\Vista.jpg"></string>
+                                       <string role="key" value="checksum"></string>
+                                       <string value="16811bb7f58a01cfe119995540794b41"></string>
+                                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="warningMsg"></string>
+                                       <string value=""></string>
+                                      </dictionary>
+                                     </instance>
+                                     <string role="key" value="_parent"></string>
+                                     <reference key="44"></reference>
+                                     <string role="key" value="_thumbnailResource"></string>
+                                     <none></none>
+                                     <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                                     <int value="3"></int>
+                                     <string role="key" value="makeThumbnail"></string>
+                                     <bool value="0"></bool>
+                                    </dictionary>
+                                   </instance>
+                                  </list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="40"></reference>
+                                  <reference key="44"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
                                 <dictionary></dictionary>
                                 <string role="key" value="nextImageId"></string>
-                                <int value="0"></int>
+                                <int value="1"></int>
                                 <string role="key" value="parentNode"></string>
-                                <none></none>
+                                <reference key="45"></reference>
                                </dictionary>
                               </instance>
                              </list>
@@ -2103,18 +2396,20 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <string value=""></string>
                              <string role="key" value="parentNode"></string>
-                             <reference key="41"></reference>
+                             <reference key="45"></reference>
                              <string role="key" value="systemResources"></string>
                              <list></list>
                              <string role="key" value="undo"></string>
                              <bool value="1"></bool>
                              <string role="key" value="userResources"></string>
-                             <list></list>
+                             <list>
+                              <reference key="46"></reference>
+                             </list>
                              <string role="key" value="version"></string>
                              <int value="0"></int>
                             </dictionary>
                            </instance>
-                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="42">
+                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="47">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value="ACTIVIDAD: Diviértete encontrando la palabra oculta en los anagramas."></unicode>
@@ -2138,12 +2433,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="11"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="43">
+                              <instance class="exe.engine.field.TextAreaField" reference="48">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="154_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="42"></reference>
+                                <reference key="47"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <unicode value="Describe the tasks the learners should complete."></unicode>
                                 <string role="key" value="_name"></string>
@@ -2168,7 +2463,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                   <string role="key" value=".listitems"></string>
                                   <list></list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="43"></reference>
+                                  <reference key="48"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
@@ -2191,7 +2486,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <unicode value="activity"></unicode>
                              <string role="key" value="parentNode"></string>
-                             <reference key="41"></reference>
+                             <reference key="45"></reference>
                              <string role="key" value="systemResources"></string>
                              <list>
                               <string value="common.js"></string>
@@ -2228,13 +2523,13 @@ that may help or hinder the learner in the performance of the task."></unicode>
                          </dictionary>
                         </instance>
                         <unicode role="key" value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%201:Los%20sentidos%E2%80%8B#auto_top"></unicode>
-                        <instance class="exe.engine.node.Node" reference="46">
+                        <instance class="exe.engine.node.Node" reference="51">
                          <dictionary>
                           <string role="key" value="_title"></string>
                           <unicode value="Los sentidos​"></unicode>
                           <string role="key" value="idevices"></string>
                           <list>
-                           <instance class="exe.engine.jsidevice.JsIdevice" reference="44">
+                           <instance class="exe.engine.jsidevice.JsIdevice" reference="49">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value=""></unicode>
@@ -2295,12 +2590,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="1"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="45">
+                              <instance class="exe.engine.field.TextAreaField" reference="50">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="148_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="44"></reference>
+                                <reference key="49"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <string value=""></string>
                                 <string role="key" value="_name"></string>
@@ -2350,10 +2645,10 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                      <string role="key" value="_id"></string>
                                      <unicode value="22_148_2.0"></unicode>
                                      <string role="key" value="_imageResource"></string>
-                                     <instance class="exe.engine.resource.Resource" reference="47">
+                                     <instance class="exe.engine.resource.Resource" reference="52">
                                       <dictionary>
                                        <string role="key" value="_idevice"></string>
-                                       <reference key="44"></reference>
+                                       <reference key="49"></reference>
                                        <string role="key" value="_package"></string>
                                        <reference key="2"></reference>
                                        <string role="key" value="_storageName"></string>
@@ -2371,7 +2666,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                       </dictionary>
                                      </instance>
                                      <string role="key" value="_parent"></string>
-                                     <reference key="45"></reference>
+                                     <reference key="50"></reference>
                                      <string role="key" value="_thumbnailResource"></string>
                                      <none></none>
                                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -2382,7 +2677,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                    </instance>
                                   </list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="45"></reference>
+                                  <reference key="50"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
@@ -2390,7 +2685,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <string role="key" value="nextImageId"></string>
                                 <int value="1"></int>
                                 <string role="key" value="parentNode"></string>
-                                <reference key="46"></reference>
+                                <reference key="51"></reference>
                                </dictionary>
                               </instance>
                              </list>
@@ -2407,14 +2702,14 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <string value=""></string>
                              <string role="key" value="parentNode"></string>
-                             <reference key="46"></reference>
+                             <reference key="51"></reference>
                              <string role="key" value="systemResources"></string>
                              <list></list>
                              <string role="key" value="undo"></string>
                              <bool value="1"></bool>
                              <string role="key" value="userResources"></string>
                              <list>
-                              <reference key="47"></reference>
+                              <reference key="52"></reference>
                              </list>
                              <string role="key" value="version"></string>
                              <int value="0"></int>
@@ -2471,7 +2766,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     <bool value="1"></bool>
                     <string role="key" value="userResources"></string>
                     <list>
-                     <reference key="48"></reference>
+                     <reference key="53"></reference>
                     </list>
                     <string role="key" value="version"></string>
                     <int value="0"></int>
@@ -2495,12 +2790,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                  <string role="key" value="top_anchors_linked_from_fields"></string>
                  <list>
                   <reference key="10"></reference>
-                  <instance class="exe.engine.field.TextAreaField" reference="49">
+                  <instance class="exe.engine.field.TextAreaField" reference="54">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="150_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <instance class="exe.engine.jsidevice.JsIdevice" reference="50">
+                    <instance class="exe.engine.jsidevice.JsIdevice" reference="55">
                      <dictionary>
                       <string role="key" value="_title"></string>
                       <unicode value="Demuestra tus conocimientos"></unicode>
@@ -2561,7 +2856,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                       <int value="1"></int>
                       <string role="key" value="fields"></string>
                       <list>
-                       <reference key="49"></reference>
+                       <reference key="54"></reference>
                       </list>
                       <string role="key" value="icon"></string>
                       <unicode value="list"></unicode>
@@ -2576,13 +2871,13 @@ that may help or hinder the learner in the performance of the task."></unicode>
                       <string role="key" value="originalicon"></string>
                       <string value=""></string>
                       <string role="key" value="parentNode"></string>
-                      <instance class="exe.engine.node.Node" reference="51">
+                      <instance class="exe.engine.node.Node" reference="56">
                        <dictionary>
                         <string role="key" value="_title"></string>
                         <unicode value="Evaluación Unidad 1"></unicode>
                         <string role="key" value="idevices"></string>
                         <list>
-                         <reference key="50"></reference>
+                         <reference key="55"></reference>
                         </list>
                         <string role="key" value="_id"></string>
                         <unicode value="18"></unicode>
@@ -2642,7 +2937,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="49"></reference>
+                      <reference key="54"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -2660,24 +2955,24 @@ that may help or hinder the learner in the performance of the task."></unicode>
                  <string role="key" value="children"></string>
                  <list>
                   <reference key="15"></reference>
-                  <reference key="46"></reference>
-                  <reference key="41"></reference>
-                  <reference key="26"></reference>
-                  <reference key="36"></reference>
-                  <reference key="31"></reference>
-                  <reference key="21"></reference>
                   <reference key="51"></reference>
+                  <reference key="45"></reference>
+                  <reference key="27"></reference>
+                  <reference key="39"></reference>
+                  <reference key="33"></reference>
+                  <reference key="21"></reference>
+                  <reference key="56"></reference>
                  </list>
                 </dictionary>
                </instance>
                <unicode role="key" value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202#auto_top"></unicode>
-               <instance class="exe.engine.node.Node" reference="60">
+               <instance class="exe.engine.node.Node" reference="65">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="UNIDAD 2"></unicode>
                  <string role="key" value="idevices"></string>
                  <list>
-                  <instance class="exe.engine.jsidevice.JsIdevice" reference="52">
+                  <instance class="exe.engine.jsidevice.JsIdevice" reference="57">
                    <dictionary>
                     <string role="key" value="_title"></string>
                     <unicode value="LOS ALIMENTOS"></unicode>
@@ -2738,12 +3033,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     <int value="1"></int>
                     <string role="key" value="fields"></string>
                     <list>
-                     <instance class="exe.engine.field.TextAreaField" reference="53">
+                     <instance class="exe.engine.field.TextAreaField" reference="58">
                       <dictionary>
                        <string role="key" value="_id"></string>
                        <unicode value="141_2"></unicode>
                        <string role="key" value="_idevice"></string>
-                       <reference key="52"></reference>
+                       <reference key="57"></reference>
                        <string role="key" value="_instruc"></string>
                        <string value=""></string>
                        <string role="key" value="_name"></string>
@@ -2798,10 +3093,10 @@ that may help or hinder the learner in the performance of the task."></unicode>
                             <string role="key" value="_id"></string>
                             <unicode value="15_141_2.2"></unicode>
                             <string role="key" value="_imageResource"></string>
-                            <instance class="exe.engine.resource.Resource" reference="84">
+                            <instance class="exe.engine.resource.Resource" reference="89">
                              <dictionary>
                               <string role="key" value="_idevice"></string>
-                              <reference key="52"></reference>
+                              <reference key="57"></reference>
                               <string role="key" value="_package"></string>
                               <reference key="2"></reference>
                               <string role="key" value="_storageName"></string>
@@ -2819,7 +3114,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              </dictionary>
                             </instance>
                             <string role="key" value="_parent"></string>
-                            <reference key="53"></reference>
+                            <reference key="58"></reference>
                             <string role="key" value="_thumbnailResource"></string>
                             <none></none>
                             <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -2830,19 +3125,19 @@ that may help or hinder the learner in the performance of the task."></unicode>
                           </instance>
                          </list>
                          <string role="key" value="idevice"></string>
-                         <reference key="53"></reference>
+                         <reference key="58"></reference>
                         </dictionary>
                        </instance>
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary>
                         <unicode role="key" value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202:%C2%BFC%C3%B3mo%20se%20digieren%20los%20alimentos%3F#auto_top"></unicode>
-                        <instance class="exe.engine.node.Node" reference="56">
+                        <instance class="exe.engine.node.Node" reference="61">
                          <dictionary>
                           <string role="key" value="_title"></string>
                           <unicode value="¿Cómo se digieren los alimentos?"></unicode>
                           <string role="key" value="idevices"></string>
                           <list>
-                           <instance class="exe.engine.jsidevice.JsIdevice" reference="54">
+                           <instance class="exe.engine.jsidevice.JsIdevice" reference="59">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value=""></unicode>
@@ -2903,12 +3198,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="1"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="55">
+                              <instance class="exe.engine.field.TextAreaField" reference="60">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="144_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="54"></reference>
+                                <reference key="59"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <string value=""></string>
                                 <string role="key" value="_name"></string>
@@ -2960,10 +3255,10 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                      <string role="key" value="_id"></string>
                                      <unicode value="18_144_2.0"></unicode>
                                      <string role="key" value="_imageResource"></string>
-                                     <instance class="exe.engine.resource.Resource" reference="57">
+                                     <instance class="exe.engine.resource.Resource" reference="62">
                                       <dictionary>
                                        <string role="key" value="_idevice"></string>
-                                       <reference key="54"></reference>
+                                       <reference key="59"></reference>
                                        <string role="key" value="_package"></string>
                                        <reference key="2"></reference>
                                        <string role="key" value="_storageName"></string>
@@ -2981,7 +3276,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                       </dictionary>
                                      </instance>
                                      <string role="key" value="_parent"></string>
-                                     <reference key="55"></reference>
+                                     <reference key="60"></reference>
                                      <string role="key" value="_thumbnailResource"></string>
                                      <none></none>
                                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -2992,7 +3287,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                    </instance>
                                   </list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="55"></reference>
+                                  <reference key="60"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
@@ -3000,7 +3295,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <string role="key" value="nextImageId"></string>
                                 <int value="1"></int>
                                 <string role="key" value="parentNode"></string>
-                                <reference key="56"></reference>
+                                <reference key="61"></reference>
                                </dictionary>
                               </instance>
                              </list>
@@ -3017,20 +3312,20 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <string value=""></string>
                              <string role="key" value="parentNode"></string>
-                             <reference key="56"></reference>
+                             <reference key="61"></reference>
                              <string role="key" value="systemResources"></string>
                              <list></list>
                              <string role="key" value="undo"></string>
                              <bool value="1"></bool>
                              <string role="key" value="userResources"></string>
                              <list>
-                              <reference key="57"></reference>
+                              <reference key="62"></reference>
                              </list>
                              <string role="key" value="version"></string>
                              <int value="0"></int>
                             </dictionary>
                            </instance>
-                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="58">
+                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="63">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value="Actividad: Cómo se digieren los alimentos"></unicode>
@@ -3054,12 +3349,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="11"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="59">
+                              <instance class="exe.engine.field.TextAreaField" reference="64">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="164_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="58"></reference>
+                                <reference key="63"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <unicode value="Describe the tasks the learners should complete."></unicode>
                                 <string role="key" value="_name"></string>
@@ -3084,7 +3379,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                   <string role="key" value=".listitems"></string>
                                   <list></list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="59"></reference>
+                                  <reference key="64"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
@@ -3107,7 +3402,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <unicode value="activity"></unicode>
                              <string role="key" value="parentNode"></string>
-                             <reference key="56"></reference>
+                             <reference key="61"></reference>
                              <string role="key" value="systemResources"></string>
                              <list>
                               <string value="common.js"></string>
@@ -3134,267 +3429,20 @@ that may help or hinder the learner in the performance of the task."></unicode>
                           <string role="key" value="last_full_node_path"></string>
                           <string value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202:%C2%BFC%C3%B3mo%20se%20digieren%20los%20alimentos%3F"></string>
                           <string role="key" value="parent"></string>
-                          <reference key="60"></reference>
+                          <reference key="65"></reference>
                           <string role="key" value="top_anchors_linked_from_fields"></string>
                           <list>
-                           <reference key="53"></reference>
+                           <reference key="58"></reference>
                           </list>
                           <string role="key" value="children"></string>
                           <list></list>
                          </dictionary>
                         </instance>
                         <unicode role="key" value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202:%C2%BFQu%C3%A9%20son%20los%20alimentos%3F#auto_top"></unicode>
-                        <instance class="exe.engine.node.Node" reference="63">
-                         <dictionary>
-                          <string role="key" value="_title"></string>
-                          <unicode value="¿Qué son los alimentos?"></unicode>
-                          <string role="key" value="idevices"></string>
-                          <list>
-                           <instance class="exe.engine.jsidevice.JsIdevice" reference="61">
-                            <dictionary>
-                             <string role="key" value="_title"></string>
-                             <unicode value=""></unicode>
-                             <string role="key" value="_attributes"></string>
-                             <list>
-                              <tuple>
-                               <string value="title"></string>
-                               <list>
-                                <string value="Title"></string>
-                                <int value="0"></int>
-                                <int value="0"></int>
-                               </list>
-                              </tuple>
-                              <tuple>
-                               <string value="category"></string>
-                               <list>
-                                <string value="Category"></string>
-                                <int value="0"></int>
-                                <int value="1"></int>
-                               </list>
-                              </tuple>
-                              <tuple>
-                               <string value="css-class"></string>
-                               <list>
-                                <string value="CSS class"></string>
-                                <int value="0"></int>
-                                <int value="2"></int>
-                               </list>
-                              </tuple>
-                              <tuple>
-                               <string value="icon"></string>
-                               <list>
-                                <string value="Icon"></string>
-                                <int value="0"></int>
-                                <int value="3"></int>
-                               </list>
-                              </tuple>
-                             </list>
-                             <string role="key" value="_author"></string>
-                             <string value=""></string>
-                             <string role="key" value="_iDeviceDir"></string>
-                             <string value="text"></string>
-                             <string role="key" value="_purpose"></string>
-                             <string value=""></string>
-                             <string role="key" value="_tip"></string>
-                             <string value=""></string>
-                             <string role="key" value="_typeName"></string>
-                             <unicode value="Text"></unicode>
-                             <string role="key" value="_valid"></string>
-                             <bool value="1"></bool>
-                             <string role="key" value="class_"></string>
-                             <unicode value="text"></unicode>
-                             <string role="key" value="edit"></string>
-                             <bool value="0"></bool>
-                             <string role="key" value="emphasis"></string>
-                             <int value="0"></int>
-                             <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-                             <int value="1"></int>
-                             <string role="key" value="fields"></string>
-                             <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="62">
-                               <dictionary>
-                                <string role="key" value="_id"></string>
-                                <unicode value="142_2"></unicode>
-                                <string role="key" value="_idevice"></string>
-                                <reference key="61"></reference>
-                                <string role="key" value="_instruc"></string>
-                                <string value=""></string>
-                                <string role="key" value="_name"></string>
-                                <string value=""></string>
-                                <string role="key" value="anchor_names"></string>
-                                <list></list>
-                                <string role="key" value="anchors_linked_from_fields"></string>
-                                <dictionary></dictionary>
-                                <string role="key" value="content_w_resourcePaths"></string>
-                                <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Los alimentos son sustancias que consumimos para obtener energía y nutrientes necesarios para que el cuerpo funcione correctamente. Nos ayudan a crecer, mantenernos saludables y realizar nuestras actividades diarias.&lt;/p&gt;&lt;/div&gt;"></unicode>
-                                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                                <int value="4"></int>
-                                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-                                <int value="2"></int>
-                                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-                                <int value="3"></int>
-                                <string role="key" value="htmlTag"></string>
-                                <string value="div"></string>
-                                <string role="key" value="images"></string>
-                                <instance class="exe.engine.galleryidevice.GalleryImages">
-                                 <dictionary>
-                                  <string role="key" value=".listitems"></string>
-                                  <list></list>
-                                  <string role="key" value="idevice"></string>
-                                  <reference key="62"></reference>
-                                 </dictionary>
-                                </instance>
-                                <string role="key" value="intlinks_to_anchors"></string>
-                                <dictionary></dictionary>
-                                <string role="key" value="nextImageId"></string>
-                                <int value="1"></int>
-                                <string role="key" value="parentNode"></string>
-                                <reference key="63"></reference>
-                               </dictionary>
-                              </instance>
-                             </list>
-                             <string role="key" value="icon"></string>
-                             <unicode value=""></unicode>
-                             <string role="key" value="id"></string>
-                             <unicode value="16"></unicode>
-                             <string role="key" value="ideviceCategory"></string>
-                             <unicode value="Text and Tasks"></unicode>
-                             <string role="key" value="lastIdevice"></string>
-                             <bool value="0"></bool>
-                             <string role="key" value="nextFieldId"></string>
-                             <int value="3"></int>
-                             <string role="key" value="originalicon"></string>
-                             <string value=""></string>
-                             <string role="key" value="parentNode"></string>
-                             <reference key="63"></reference>
-                             <string role="key" value="systemResources"></string>
-                             <list></list>
-                             <string role="key" value="undo"></string>
-                             <bool value="1"></bool>
-                             <string role="key" value="userResources"></string>
-                             <list></list>
-                             <string role="key" value="version"></string>
-                             <int value="0"></int>
-                            </dictionary>
-                           </instance>
-                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="64">
-                            <dictionary>
-                             <string role="key" value="_title"></string>
-                             <unicode value="Actividad: Observa el siguiente video de los alimentos"></unicode>
-                             <string role="key" value="_author"></string>
-                             <unicode value="University of Auckland"></unicode>
-                             <string role="key" value="_purpose"></string>
-                             <unicode value="An activity can be defined as a task or set of tasks a learner must
-complete. Provide a clear statement of the task and consider any conditions
-that may help or hinder the learner in the performance of the task."></unicode>
-                             <string role="key" value="_tip"></string>
-                             <unicode value=""></unicode>
-                             <string role="key" value="_typeName"></string>
-                             <unicode value="Activity"></unicode>
-                             <string role="key" value="class_"></string>
-                             <unicode value="activity"></unicode>
-                             <string role="key" value="edit"></string>
-                             <bool value="0"></bool>
-                             <string role="key" value="emphasis"></string>
-                             <int value="1"></int>
-                             <string role="key" value="exe.engine.genericidevice.GenericIdevice.persistenceVersion"></string>
-                             <int value="11"></int>
-                             <string role="key" value="fields"></string>
-                             <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="65">
-                               <dictionary>
-                                <string role="key" value="_id"></string>
-                                <unicode value="162_2"></unicode>
-                                <string role="key" value="_idevice"></string>
-                                <reference key="64"></reference>
-                                <string role="key" value="_instruc"></string>
-                                <unicode value="Describe the tasks the learners should complete."></unicode>
-                                <string role="key" value="_name"></string>
-                                <unicode value="Activity"></unicode>
-                                <string role="key" value="anchor_names"></string>
-                                <list></list>
-                                <string role="key" value="anchors_linked_from_fields"></string>
-                                <dictionary></dictionary>
-                                <string role="key" value="content_w_resourcePaths"></string>
-                                <unicode content="true" value="&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/Q78bxk0mYDY&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;"></unicode>
-                                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                                <int value="4"></int>
-                                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-                                <int value="2"></int>
-                                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-                                <int value="3"></int>
-                                <string role="key" value="htmlTag"></string>
-                                <string value="div"></string>
-                                <string role="key" value="images"></string>
-                                <instance class="exe.engine.galleryidevice.GalleryImages">
-                                 <dictionary>
-                                  <string role="key" value=".listitems"></string>
-                                  <list></list>
-                                  <string role="key" value="idevice"></string>
-                                  <reference key="65"></reference>
-                                 </dictionary>
-                                </instance>
-                                <string role="key" value="intlinks_to_anchors"></string>
-                                <dictionary></dictionary>
-                                <string role="key" value="nextImageId"></string>
-                                <int value="0"></int>
-                                <string role="key" value="parentNode"></string>
-                                <none></none>
-                               </dictionary>
-                              </instance>
-                             </list>
-                             <string role="key" value="icon"></string>
-                             <unicode value="activity"></unicode>
-                             <string role="key" value="id"></string>
-                             <unicode value="36"></unicode>
-                             <string role="key" value="lastIdevice"></string>
-                             <bool value="0"></bool>
-                             <string role="key" value="nextFieldId"></string>
-                             <int value="3"></int>
-                             <string role="key" value="originalicon"></string>
-                             <unicode value="activity"></unicode>
-                             <string role="key" value="parentNode"></string>
-                             <reference key="63"></reference>
-                             <string role="key" value="systemResources"></string>
-                             <list>
-                              <string value="common.js"></string>
-                             </list>
-                             <string role="key" value="undo"></string>
-                             <bool value="1"></bool>
-                             <string role="key" value="userResources"></string>
-                             <list></list>
-                             <string role="key" value="version"></string>
-                             <int value="0"></int>
-                            </dictionary>
-                           </instance>
-                          </list>
-                          <string role="key" value="_id"></string>
-                          <unicode value="19"></unicode>
-                          <string role="key" value="_package"></string>
-                          <reference key="2"></reference>
-                          <string role="key" value="anchor_fields"></string>
-                          <list></list>
-                          <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-                          <int value="2"></int>
-                          <string role="key" value="exportType"></string>
-                          <string value="website"></string>
-                          <string role="key" value="last_full_node_path"></string>
-                          <string value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202:%C2%BFQu%C3%A9%20son%20los%20alimentos%3F"></string>
-                          <string role="key" value="parent"></string>
-                          <reference key="60"></reference>
-                          <string role="key" value="top_anchors_linked_from_fields"></string>
-                          <list>
-                           <reference key="53"></reference>
-                          </list>
-                          <string role="key" value="children"></string>
-                          <list></list>
-                         </dictionary>
-                        </instance>
-                        <unicode role="key" value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202:El%20sistema%20digestivo%E2%80%8B#auto_top"></unicode>
                         <instance class="exe.engine.node.Node" reference="68">
                          <dictionary>
                           <string role="key" value="_title"></string>
-                          <unicode value="El sistema digestivo​"></unicode>
+                          <unicode value="¿Qué son los alimentos?"></unicode>
                           <string role="key" value="idevices"></string>
                           <list>
                            <instance class="exe.engine.jsidevice.JsIdevice" reference="66">
@@ -3461,9 +3509,256 @@ that may help or hinder the learner in the performance of the task."></unicode>
                               <instance class="exe.engine.field.TextAreaField" reference="67">
                                <dictionary>
                                 <string role="key" value="_id"></string>
-                                <unicode value="145_2"></unicode>
+                                <unicode value="142_2"></unicode>
                                 <string role="key" value="_idevice"></string>
                                 <reference key="66"></reference>
+                                <string role="key" value="_instruc"></string>
+                                <string value=""></string>
+                                <string role="key" value="_name"></string>
+                                <string value=""></string>
+                                <string role="key" value="anchor_names"></string>
+                                <list></list>
+                                <string role="key" value="anchors_linked_from_fields"></string>
+                                <dictionary></dictionary>
+                                <string role="key" value="content_w_resourcePaths"></string>
+                                <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Los alimentos son sustancias que consumimos para obtener energía y nutrientes necesarios para que el cuerpo funcione correctamente. Nos ayudan a crecer, mantenernos saludables y realizar nuestras actividades diarias.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                <int value="4"></int>
+                                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                                <int value="2"></int>
+                                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                                <int value="3"></int>
+                                <string role="key" value="htmlTag"></string>
+                                <string value="div"></string>
+                                <string role="key" value="images"></string>
+                                <instance class="exe.engine.galleryidevice.GalleryImages">
+                                 <dictionary>
+                                  <string role="key" value=".listitems"></string>
+                                  <list></list>
+                                  <string role="key" value="idevice"></string>
+                                  <reference key="67"></reference>
+                                 </dictionary>
+                                </instance>
+                                <string role="key" value="intlinks_to_anchors"></string>
+                                <dictionary></dictionary>
+                                <string role="key" value="nextImageId"></string>
+                                <int value="1"></int>
+                                <string role="key" value="parentNode"></string>
+                                <reference key="68"></reference>
+                               </dictionary>
+                              </instance>
+                             </list>
+                             <string role="key" value="icon"></string>
+                             <unicode value=""></unicode>
+                             <string role="key" value="id"></string>
+                             <unicode value="16"></unicode>
+                             <string role="key" value="ideviceCategory"></string>
+                             <unicode value="Text and Tasks"></unicode>
+                             <string role="key" value="lastIdevice"></string>
+                             <bool value="0"></bool>
+                             <string role="key" value="nextFieldId"></string>
+                             <int value="3"></int>
+                             <string role="key" value="originalicon"></string>
+                             <string value=""></string>
+                             <string role="key" value="parentNode"></string>
+                             <reference key="68"></reference>
+                             <string role="key" value="systemResources"></string>
+                             <list></list>
+                             <string role="key" value="undo"></string>
+                             <bool value="1"></bool>
+                             <string role="key" value="userResources"></string>
+                             <list></list>
+                             <string role="key" value="version"></string>
+                             <int value="0"></int>
+                            </dictionary>
+                           </instance>
+                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="69">
+                            <dictionary>
+                             <string role="key" value="_title"></string>
+                             <unicode value="Actividad: Observa el siguiente video de los alimentos"></unicode>
+                             <string role="key" value="_author"></string>
+                             <unicode value="University of Auckland"></unicode>
+                             <string role="key" value="_purpose"></string>
+                             <unicode value="An activity can be defined as a task or set of tasks a learner must
+complete. Provide a clear statement of the task and consider any conditions
+that may help or hinder the learner in the performance of the task."></unicode>
+                             <string role="key" value="_tip"></string>
+                             <unicode value=""></unicode>
+                             <string role="key" value="_typeName"></string>
+                             <unicode value="Activity"></unicode>
+                             <string role="key" value="class_"></string>
+                             <unicode value="activity"></unicode>
+                             <string role="key" value="edit"></string>
+                             <bool value="0"></bool>
+                             <string role="key" value="emphasis"></string>
+                             <int value="1"></int>
+                             <string role="key" value="exe.engine.genericidevice.GenericIdevice.persistenceVersion"></string>
+                             <int value="11"></int>
+                             <string role="key" value="fields"></string>
+                             <list>
+                              <instance class="exe.engine.field.TextAreaField" reference="70">
+                               <dictionary>
+                                <string role="key" value="_id"></string>
+                                <unicode value="162_2"></unicode>
+                                <string role="key" value="_idevice"></string>
+                                <reference key="69"></reference>
+                                <string role="key" value="_instruc"></string>
+                                <unicode value="Describe the tasks the learners should complete."></unicode>
+                                <string role="key" value="_name"></string>
+                                <unicode value="Activity"></unicode>
+                                <string role="key" value="anchor_names"></string>
+                                <list></list>
+                                <string role="key" value="anchors_linked_from_fields"></string>
+                                <dictionary></dictionary>
+                                <string role="key" value="content_w_resourcePaths"></string>
+                                <unicode content="true" value="&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/Q78bxk0mYDY&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;"></unicode>
+                                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                <int value="4"></int>
+                                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                                <int value="2"></int>
+                                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                                <int value="3"></int>
+                                <string role="key" value="htmlTag"></string>
+                                <string value="div"></string>
+                                <string role="key" value="images"></string>
+                                <instance class="exe.engine.galleryidevice.GalleryImages">
+                                 <dictionary>
+                                  <string role="key" value=".listitems"></string>
+                                  <list></list>
+                                  <string role="key" value="idevice"></string>
+                                  <reference key="70"></reference>
+                                 </dictionary>
+                                </instance>
+                                <string role="key" value="intlinks_to_anchors"></string>
+                                <dictionary></dictionary>
+                                <string role="key" value="nextImageId"></string>
+                                <int value="0"></int>
+                                <string role="key" value="parentNode"></string>
+                                <none></none>
+                               </dictionary>
+                              </instance>
+                             </list>
+                             <string role="key" value="icon"></string>
+                             <unicode value="activity"></unicode>
+                             <string role="key" value="id"></string>
+                             <unicode value="36"></unicode>
+                             <string role="key" value="lastIdevice"></string>
+                             <bool value="0"></bool>
+                             <string role="key" value="nextFieldId"></string>
+                             <int value="3"></int>
+                             <string role="key" value="originalicon"></string>
+                             <unicode value="activity"></unicode>
+                             <string role="key" value="parentNode"></string>
+                             <reference key="68"></reference>
+                             <string role="key" value="systemResources"></string>
+                             <list>
+                              <string value="common.js"></string>
+                             </list>
+                             <string role="key" value="undo"></string>
+                             <bool value="1"></bool>
+                             <string role="key" value="userResources"></string>
+                             <list></list>
+                             <string role="key" value="version"></string>
+                             <int value="0"></int>
+                            </dictionary>
+                           </instance>
+                          </list>
+                          <string role="key" value="_id"></string>
+                          <unicode value="19"></unicode>
+                          <string role="key" value="_package"></string>
+                          <reference key="2"></reference>
+                          <string role="key" value="anchor_fields"></string>
+                          <list></list>
+                          <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+                          <int value="2"></int>
+                          <string role="key" value="exportType"></string>
+                          <string value="website"></string>
+                          <string role="key" value="last_full_node_path"></string>
+                          <string value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202:%C2%BFQu%C3%A9%20son%20los%20alimentos%3F"></string>
+                          <string role="key" value="parent"></string>
+                          <reference key="65"></reference>
+                          <string role="key" value="top_anchors_linked_from_fields"></string>
+                          <list>
+                           <reference key="58"></reference>
+                          </list>
+                          <string role="key" value="children"></string>
+                          <list></list>
+                         </dictionary>
+                        </instance>
+                        <unicode role="key" value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202:El%20sistema%20digestivo%E2%80%8B#auto_top"></unicode>
+                        <instance class="exe.engine.node.Node" reference="73">
+                         <dictionary>
+                          <string role="key" value="_title"></string>
+                          <unicode value="El sistema digestivo​"></unicode>
+                          <string role="key" value="idevices"></string>
+                          <list>
+                           <instance class="exe.engine.jsidevice.JsIdevice" reference="71">
+                            <dictionary>
+                             <string role="key" value="_title"></string>
+                             <unicode value=""></unicode>
+                             <string role="key" value="_attributes"></string>
+                             <list>
+                              <tuple>
+                               <string value="title"></string>
+                               <list>
+                                <string value="Title"></string>
+                                <int value="0"></int>
+                                <int value="0"></int>
+                               </list>
+                              </tuple>
+                              <tuple>
+                               <string value="category"></string>
+                               <list>
+                                <string value="Category"></string>
+                                <int value="0"></int>
+                                <int value="1"></int>
+                               </list>
+                              </tuple>
+                              <tuple>
+                               <string value="css-class"></string>
+                               <list>
+                                <string value="CSS class"></string>
+                                <int value="0"></int>
+                                <int value="2"></int>
+                               </list>
+                              </tuple>
+                              <tuple>
+                               <string value="icon"></string>
+                               <list>
+                                <string value="Icon"></string>
+                                <int value="0"></int>
+                                <int value="3"></int>
+                               </list>
+                              </tuple>
+                             </list>
+                             <string role="key" value="_author"></string>
+                             <string value=""></string>
+                             <string role="key" value="_iDeviceDir"></string>
+                             <string value="text"></string>
+                             <string role="key" value="_purpose"></string>
+                             <string value=""></string>
+                             <string role="key" value="_tip"></string>
+                             <string value=""></string>
+                             <string role="key" value="_typeName"></string>
+                             <unicode value="Text"></unicode>
+                             <string role="key" value="_valid"></string>
+                             <bool value="1"></bool>
+                             <string role="key" value="class_"></string>
+                             <unicode value="text"></unicode>
+                             <string role="key" value="edit"></string>
+                             <bool value="0"></bool>
+                             <string role="key" value="emphasis"></string>
+                             <int value="0"></int>
+                             <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                             <int value="1"></int>
+                             <string role="key" value="fields"></string>
+                             <list>
+                              <instance class="exe.engine.field.TextAreaField" reference="72">
+                               <dictionary>
+                                <string role="key" value="_id"></string>
+                                <unicode value="145_2"></unicode>
+                                <string role="key" value="_idevice"></string>
+                                <reference key="71"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <string value=""></string>
                                 <string role="key" value="_name"></string>
@@ -3515,10 +3810,10 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                      <string role="key" value="_id"></string>
                                      <unicode value="19_145_2.0"></unicode>
                                      <string role="key" value="_imageResource"></string>
-                                     <instance class="exe.engine.resource.Resource" reference="69">
+                                     <instance class="exe.engine.resource.Resource" reference="74">
                                       <dictionary>
                                        <string role="key" value="_idevice"></string>
-                                       <reference key="66"></reference>
+                                       <reference key="71"></reference>
                                        <string role="key" value="_package"></string>
                                        <reference key="2"></reference>
                                        <string role="key" value="_storageName"></string>
@@ -3536,7 +3831,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                       </dictionary>
                                      </instance>
                                      <string role="key" value="_parent"></string>
-                                     <reference key="67"></reference>
+                                     <reference key="72"></reference>
                                      <string role="key" value="_thumbnailResource"></string>
                                      <none></none>
                                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3547,7 +3842,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                    </instance>
                                   </list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="67"></reference>
+                                  <reference key="72"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
@@ -3555,7 +3850,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <string role="key" value="nextImageId"></string>
                                 <int value="1"></int>
                                 <string role="key" value="parentNode"></string>
-                                <reference key="68"></reference>
+                                <reference key="73"></reference>
                                </dictionary>
                               </instance>
                              </list>
@@ -3572,20 +3867,20 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <string value=""></string>
                              <string role="key" value="parentNode"></string>
-                             <reference key="68"></reference>
+                             <reference key="73"></reference>
                              <string role="key" value="systemResources"></string>
                              <list></list>
                              <string role="key" value="undo"></string>
                              <bool value="1"></bool>
                              <string role="key" value="userResources"></string>
                              <list>
-                              <reference key="69"></reference>
+                              <reference key="74"></reference>
                              </list>
                              <string role="key" value="version"></string>
                              <int value="0"></int>
                             </dictionary>
                            </instance>
-                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="70">
+                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="75">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value="Actividad: Ubica las partes del sistema digestivo"></unicode>
@@ -3609,12 +3904,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="11"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="71">
+                              <instance class="exe.engine.field.TextAreaField" reference="76">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="165_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="70"></reference>
+                                <reference key="75"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <unicode value="Describe the tasks the learners should complete."></unicode>
                                 <string role="key" value="_name"></string>
@@ -3639,7 +3934,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                   <string role="key" value=".listitems"></string>
                                   <list></list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="71"></reference>
+                                  <reference key="76"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
@@ -3662,7 +3957,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <unicode value="activity"></unicode>
                              <string role="key" value="parentNode"></string>
-                             <reference key="68"></reference>
+                             <reference key="73"></reference>
                              <string role="key" value="systemResources"></string>
                              <list>
                               <string value="common.js"></string>
@@ -3689,23 +3984,23 @@ that may help or hinder the learner in the performance of the task."></unicode>
                           <string role="key" value="last_full_node_path"></string>
                           <string value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202:El%20sistema%20digestivo%E2%80%8B"></string>
                           <string role="key" value="parent"></string>
-                          <reference key="60"></reference>
+                          <reference key="65"></reference>
                           <string role="key" value="top_anchors_linked_from_fields"></string>
                           <list>
-                           <reference key="53"></reference>
+                           <reference key="58"></reference>
                           </list>
                           <string role="key" value="children"></string>
                           <list></list>
                          </dictionary>
                         </instance>
                         <unicode role="key" value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202:La%20clasificaci%C3%B3n%20de%20los%20alimentos%E2%80%8B#auto_top"></unicode>
-                        <instance class="exe.engine.node.Node" reference="74">
+                        <instance class="exe.engine.node.Node" reference="79">
                          <dictionary>
                           <string role="key" value="_title"></string>
                           <unicode value="La clasificación de los alimentos​"></unicode>
                           <string role="key" value="idevices"></string>
                           <list>
-                           <instance class="exe.engine.jsidevice.JsIdevice" reference="72">
+                           <instance class="exe.engine.jsidevice.JsIdevice" reference="77">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value=""></unicode>
@@ -3766,12 +4061,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="1"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="73">
+                              <instance class="exe.engine.field.TextAreaField" reference="78">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="143_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="72"></reference>
+                                <reference key="77"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <string value=""></string>
                                 <string role="key" value="_name"></string>
@@ -3823,10 +4118,10 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                      <string role="key" value="_id"></string>
                                      <unicode value="17_143_2.0"></unicode>
                                      <string role="key" value="_imageResource"></string>
-                                     <instance class="exe.engine.resource.Resource" reference="75">
+                                     <instance class="exe.engine.resource.Resource" reference="80">
                                       <dictionary>
                                        <string role="key" value="_idevice"></string>
-                                       <reference key="72"></reference>
+                                       <reference key="77"></reference>
                                        <string role="key" value="_package"></string>
                                        <reference key="2"></reference>
                                        <string role="key" value="_storageName"></string>
@@ -3844,7 +4139,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                       </dictionary>
                                      </instance>
                                      <string role="key" value="_parent"></string>
-                                     <reference key="73"></reference>
+                                     <reference key="78"></reference>
                                      <string role="key" value="_thumbnailResource"></string>
                                      <none></none>
                                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3855,7 +4150,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                    </instance>
                                   </list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="73"></reference>
+                                  <reference key="78"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
@@ -3863,7 +4158,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <string role="key" value="nextImageId"></string>
                                 <int value="1"></int>
                                 <string role="key" value="parentNode"></string>
-                                <reference key="74"></reference>
+                                <reference key="79"></reference>
                                </dictionary>
                               </instance>
                              </list>
@@ -3880,20 +4175,20 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <string value=""></string>
                              <string role="key" value="parentNode"></string>
-                             <reference key="74"></reference>
+                             <reference key="79"></reference>
                              <string role="key" value="systemResources"></string>
                              <list></list>
                              <string role="key" value="undo"></string>
                              <bool value="1"></bool>
                              <string role="key" value="userResources"></string>
                              <list>
-                              <reference key="75"></reference>
+                              <reference key="80"></reference>
                              </list>
                              <string role="key" value="version"></string>
                              <int value="0"></int>
                             </dictionary>
                            </instance>
-                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="76">
+                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="81">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value="Actividad: Clasifica los alimentos"></unicode>
@@ -3917,12 +4212,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="11"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="77">
+                              <instance class="exe.engine.field.TextAreaField" reference="82">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="163_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="76"></reference>
+                                <reference key="81"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <unicode value="Describe the tasks the learners should complete."></unicode>
                                 <string role="key" value="_name"></string>
@@ -3947,7 +4242,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                   <string role="key" value=".listitems"></string>
                                   <list></list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="77"></reference>
+                                  <reference key="82"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
@@ -3970,7 +4265,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <unicode value="activity"></unicode>
                              <string role="key" value="parentNode"></string>
-                             <reference key="74"></reference>
+                             <reference key="79"></reference>
                              <string role="key" value="systemResources"></string>
                              <list>
                               <string value="common.js"></string>
@@ -3997,23 +4292,23 @@ that may help or hinder the learner in the performance of the task."></unicode>
                           <string role="key" value="last_full_node_path"></string>
                           <string value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202:La%20clasificaci%C3%B3n%20de%20los%20alimentos%E2%80%8B"></string>
                           <string role="key" value="parent"></string>
-                          <reference key="60"></reference>
+                          <reference key="65"></reference>
                           <string role="key" value="top_anchors_linked_from_fields"></string>
                           <list>
-                           <reference key="53"></reference>
+                           <reference key="58"></reference>
                           </list>
                           <string role="key" value="children"></string>
                           <list></list>
                          </dictionary>
                         </instance>
                         <unicode role="key" value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202:Las%20enfermedades%20digestivas#auto_top"></unicode>
-                        <instance class="exe.engine.node.Node" reference="80">
+                        <instance class="exe.engine.node.Node" reference="85">
                          <dictionary>
                           <string role="key" value="_title"></string>
                           <unicode value="Las enfermedades digestivas"></unicode>
                           <string role="key" value="idevices"></string>
                           <list>
-                           <instance class="exe.engine.jsidevice.JsIdevice" reference="78">
+                           <instance class="exe.engine.jsidevice.JsIdevice" reference="83">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value=""></unicode>
@@ -4074,12 +4369,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="1"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="79">
+                              <instance class="exe.engine.field.TextAreaField" reference="84">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="146_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="78"></reference>
+                                <reference key="83"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <string value=""></string>
                                 <string role="key" value="_name"></string>
@@ -4131,10 +4426,10 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                      <string role="key" value="_id"></string>
                                      <unicode value="20_146_2.0"></unicode>
                                      <string role="key" value="_imageResource"></string>
-                                     <instance class="exe.engine.resource.Resource" reference="81">
+                                     <instance class="exe.engine.resource.Resource" reference="86">
                                       <dictionary>
                                        <string role="key" value="_idevice"></string>
-                                       <reference key="78"></reference>
+                                       <reference key="83"></reference>
                                        <string role="key" value="_package"></string>
                                        <reference key="2"></reference>
                                        <string role="key" value="_storageName"></string>
@@ -4152,7 +4447,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                       </dictionary>
                                      </instance>
                                      <string role="key" value="_parent"></string>
-                                     <reference key="79"></reference>
+                                     <reference key="84"></reference>
                                      <string role="key" value="_thumbnailResource"></string>
                                      <none></none>
                                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -4163,7 +4458,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                    </instance>
                                   </list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="79"></reference>
+                                  <reference key="84"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
@@ -4171,7 +4466,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 <string role="key" value="nextImageId"></string>
                                 <int value="1"></int>
                                 <string role="key" value="parentNode"></string>
-                                <reference key="80"></reference>
+                                <reference key="85"></reference>
                                </dictionary>
                               </instance>
                              </list>
@@ -4188,20 +4483,20 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <string value=""></string>
                              <string role="key" value="parentNode"></string>
-                             <reference key="80"></reference>
+                             <reference key="85"></reference>
                              <string role="key" value="systemResources"></string>
                              <list></list>
                              <string role="key" value="undo"></string>
                              <bool value="1"></bool>
                              <string role="key" value="userResources"></string>
                              <list>
-                              <reference key="81"></reference>
+                              <reference key="86"></reference>
                              </list>
                              <string role="key" value="version"></string>
                              <int value="0"></int>
                             </dictionary>
                            </instance>
-                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="82">
+                           <instance class="exe.engine.genericidevice.GenericIdevice" reference="87">
                             <dictionary>
                              <string role="key" value="_title"></string>
                              <unicode value="Actividad: Identifica las enfermedades digestivas"></unicode>
@@ -4225,12 +4520,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <int value="11"></int>
                              <string role="key" value="fields"></string>
                              <list>
-                              <instance class="exe.engine.field.TextAreaField" reference="83">
+                              <instance class="exe.engine.field.TextAreaField" reference="88">
                                <dictionary>
                                 <string role="key" value="_id"></string>
                                 <unicode value="166_2"></unicode>
                                 <string role="key" value="_idevice"></string>
-                                <reference key="82"></reference>
+                                <reference key="87"></reference>
                                 <string role="key" value="_instruc"></string>
                                 <unicode value="Describe the tasks the learners should complete."></unicode>
                                 <string role="key" value="_name"></string>
@@ -4255,7 +4550,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                   <string role="key" value=".listitems"></string>
                                   <list></list>
                                   <string role="key" value="idevice"></string>
-                                  <reference key="83"></reference>
+                                  <reference key="88"></reference>
                                  </dictionary>
                                 </instance>
                                 <string role="key" value="intlinks_to_anchors"></string>
@@ -4278,7 +4573,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              <string role="key" value="originalicon"></string>
                              <unicode value="activity"></unicode>
                              <string role="key" value="parentNode"></string>
-                             <reference key="80"></reference>
+                             <reference key="85"></reference>
                              <string role="key" value="systemResources"></string>
                              <list>
                               <string value="common.js"></string>
@@ -4305,10 +4600,10 @@ that may help or hinder the learner in the performance of the task."></unicode>
                           <string role="key" value="last_full_node_path"></string>
                           <string value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202:Las%20enfermedades%20digestivas"></string>
                           <string role="key" value="parent"></string>
-                          <reference key="60"></reference>
+                          <reference key="65"></reference>
                           <string role="key" value="top_anchors_linked_from_fields"></string>
                           <list>
-                           <reference key="53"></reference>
+                           <reference key="58"></reference>
                           </list>
                           <string role="key" value="children"></string>
                           <list></list>
@@ -4318,7 +4613,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                        <string role="key" value="nextImageId"></string>
                        <int value="3"></int>
                        <string role="key" value="parentNode"></string>
-                       <reference key="60"></reference>
+                       <reference key="65"></reference>
                       </dictionary>
                      </instance>
                     </list>
@@ -4335,14 +4630,14 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     <string role="key" value="originalicon"></string>
                     <string value=""></string>
                     <string role="key" value="parentNode"></string>
-                    <reference key="60"></reference>
+                    <reference key="65"></reference>
                     <string role="key" value="systemResources"></string>
                     <list></list>
                     <string role="key" value="undo"></string>
                     <bool value="1"></bool>
                     <string role="key" value="userResources"></string>
                     <list>
-                     <reference key="84"></reference>
+                     <reference key="89"></reference>
                     </list>
                     <string role="key" value="version"></string>
                     <int value="0"></int>
@@ -4366,12 +4661,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                  <string role="key" value="top_anchors_linked_from_fields"></string>
                  <list>
                   <reference key="10"></reference>
-                  <instance class="exe.engine.field.TextAreaField" reference="85">
+                  <instance class="exe.engine.field.TextAreaField" reference="90">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="149_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <instance class="exe.engine.jsidevice.JsIdevice" reference="86">
+                    <instance class="exe.engine.jsidevice.JsIdevice" reference="91">
                      <dictionary>
                       <string role="key" value="_title"></string>
                       <unicode value="Demuestra tus conocimientos"></unicode>
@@ -4432,7 +4727,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                       <int value="1"></int>
                       <string role="key" value="fields"></string>
                       <list>
-                       <reference key="85"></reference>
+                       <reference key="90"></reference>
                       </list>
                       <string role="key" value="icon"></string>
                       <unicode value="list"></unicode>
@@ -4447,13 +4742,13 @@ that may help or hinder the learner in the performance of the task."></unicode>
                       <string role="key" value="originalicon"></string>
                       <string value=""></string>
                       <string role="key" value="parentNode"></string>
-                      <instance class="exe.engine.node.Node" reference="87">
+                      <instance class="exe.engine.node.Node" reference="92">
                        <dictionary>
                         <string role="key" value="_title"></string>
                         <unicode value="Evaluación unidad 2"></unicode>
                         <string role="key" value="idevices"></string>
                         <list>
-                         <reference key="86"></reference>
+                         <reference key="91"></reference>
                         </list>
                         <string role="key" value="_id"></string>
                         <unicode value="24"></unicode>
@@ -4468,7 +4763,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                         <string role="key" value="last_full_node_path"></string>
                         <string value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202:Evaluaci%C3%B3n%20unidad%202"></string>
                         <string role="key" value="parent"></string>
-                        <reference key="60"></reference>
+                        <reference key="65"></reference>
                         <string role="key" value="top_anchors_linked_from_fields"></string>
                         <list></list>
                         <string role="key" value="children"></string>
@@ -4513,13 +4808,13 @@ that may help or hinder the learner in the performance of the task."></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="85"></reference>
+                      <reference key="90"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary>
                      <unicode role="key" value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%202#auto_top"></unicode>
-                     <reference key="60"></reference>
+                     <reference key="65"></reference>
                     </dictionary>
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
@@ -4530,23 +4825,23 @@ that may help or hinder the learner in the performance of the task."></unicode>
                  </list>
                  <string role="key" value="children"></string>
                  <list>
-                  <reference key="63"></reference>
-                  <reference key="74"></reference>
-                  <reference key="56"></reference>
                   <reference key="68"></reference>
-                  <reference key="80"></reference>
-                  <reference key="87"></reference>
+                  <reference key="79"></reference>
+                  <reference key="61"></reference>
+                  <reference key="73"></reference>
+                  <reference key="85"></reference>
+                  <reference key="92"></reference>
                  </list>
                 </dictionary>
                </instance>
                <unicode role="key" value="exe-node:DESCUBRE%20C%C3%93MO%20FUNCIONA%20TU%20CUERPO%20%C2%A1AL%20ALCANCE%20DE%20UN%20CLIC%21:UNIDAD%203#auto_top"></unicode>
-               <instance class="exe.engine.node.Node" reference="90">
+               <instance class="exe.engine.node.Node" reference="95">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="UNIDAD 3"></unicode>
                  <string role="key" value="idevices"></string>
                  <list>
-                  <instance class="exe.engine.jsidevice.JsIdevice" reference="88">
+                  <instance class="exe.engine.jsidevice.JsIdevice" reference="93">
                    <dictionary>
                     <string role="key" value="_title"></string>
                     <unicode value="LOS SISTEMAS DEL CUERPO HUMANO"></unicode>
@@ -4607,12 +4902,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     <int value="1"></int>
                     <string role="key" value="fields"></string>
                     <list>
-                     <instance class="exe.engine.field.TextAreaField" reference="89">
+                     <instance class="exe.engine.field.TextAreaField" reference="94">
                       <dictionary>
                        <string role="key" value="_id"></string>
                        <unicode value="147_2"></unicode>
                        <string role="key" value="_idevice"></string>
-                       <reference key="88"></reference>
+                       <reference key="93"></reference>
                        <string role="key" value="_instruc"></string>
                        <string value=""></string>
                        <string role="key" value="_name"></string>
@@ -4644,7 +4939,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                          <string role="key" value=".listitems"></string>
                          <list></list>
                          <string role="key" value="idevice"></string>
-                         <reference key="89"></reference>
+                         <reference key="94"></reference>
                         </dictionary>
                        </instance>
                        <string role="key" value="intlinks_to_anchors"></string>
@@ -4669,7 +4964,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     <string role="key" value="originalicon"></string>
                     <string value=""></string>
                     <string role="key" value="parentNode"></string>
-                    <reference key="90"></reference>
+                    <reference key="95"></reference>
                     <string role="key" value="systemResources"></string>
                     <list></list>
                     <string role="key" value="undo"></string>
@@ -4724,7 +5019,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="91"></reference>
+           <reference key="96"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -4756,13 +5051,13 @@ that may help or hinder the learner in the performance of the task."></unicode>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="94">
+      <instance class="exe.engine.node.Node" reference="99">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Objetivos"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="92">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="97">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Objetivo general"></unicode>
@@ -4823,12 +5118,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="93">
+            <instance class="exe.engine.field.TextAreaField" reference="98">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="132_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="92"></reference>
+              <reference key="97"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -4854,7 +5149,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="93"></reference>
+                <reference key="98"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -4879,7 +5174,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="94"></reference>
+           <reference key="99"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -4890,7 +5185,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="95">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="100">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Objetivos específicos"></unicode>
@@ -4951,12 +5246,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="96">
+            <instance class="exe.engine.field.TextAreaField" reference="101">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="133_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="95"></reference>
+              <reference key="100"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -4985,7 +5280,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="96"></reference>
+                <reference key="101"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -5010,7 +5305,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="94"></reference>
+           <reference key="99"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -5043,15 +5338,15 @@ that may help or hinder the learner in the performance of the task."></unicode>
        </dictionary>
       </instance>
       <reference key="18"></reference>
-      <reference key="60"></reference>
-      <reference key="90"></reference>
-      <instance class="exe.engine.node.Node" reference="99">
+      <reference key="65"></reference>
+      <reference key="95"></reference>
+      <instance class="exe.engine.node.Node" reference="104">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Referencias"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="97">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="102">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -5112,12 +5407,12 @@ that may help or hinder the learner in the performance of the task."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="98">
+            <instance class="exe.engine.field.TextAreaField" reference="103">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="167_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="97"></reference>
+              <reference key="102"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -5149,7 +5444,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="98"></reference>
+                <reference key="103"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -5174,7 +5469,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="99"></reference>
+           <reference key="104"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -5212,45 +5507,45 @@ that may help or hinder the learner in the performance of the task."></unicode>
    <unicode role="key" value="1"></unicode>
    <reference key="18"></reference>
    <unicode role="key" value="10"></unicode>
-   <reference key="90"></reference>
+   <reference key="95"></reference>
    <unicode role="key" value="11"></unicode>
    <reference key="15"></reference>
    <unicode role="key" value="12"></unicode>
-   <reference key="46"></reference>
+   <reference key="51"></reference>
    <unicode role="key" value="13"></unicode>
-   <reference key="41"></reference>
+   <reference key="45"></reference>
    <unicode role="key" value="14"></unicode>
-   <reference key="26"></reference>
+   <reference key="27"></reference>
    <unicode role="key" value="15"></unicode>
-   <reference key="36"></reference>
+   <reference key="39"></reference>
    <unicode role="key" value="16"></unicode>
-   <reference key="31"></reference>
+   <reference key="33"></reference>
    <unicode role="key" value="17"></unicode>
    <reference key="21"></reference>
    <unicode role="key" value="18"></unicode>
-   <reference key="51"></reference>
+   <reference key="56"></reference>
    <unicode role="key" value="19"></unicode>
-   <reference key="63"></reference>
+   <reference key="68"></reference>
    <unicode role="key" value="2"></unicode>
    <reference key="8"></reference>
    <unicode role="key" value="20"></unicode>
-   <reference key="74"></reference>
+   <reference key="79"></reference>
    <unicode role="key" value="21"></unicode>
-   <reference key="56"></reference>
+   <reference key="61"></reference>
    <unicode role="key" value="22"></unicode>
-   <reference key="68"></reference>
+   <reference key="73"></reference>
    <unicode role="key" value="23"></unicode>
-   <reference key="80"></reference>
+   <reference key="85"></reference>
    <unicode role="key" value="24"></unicode>
-   <reference key="87"></reference>
+   <reference key="92"></reference>
    <unicode role="key" value="25"></unicode>
-   <reference key="99"></reference>
+   <reference key="104"></reference>
    <unicode role="key" value="4"></unicode>
-   <reference key="91"></reference>
+   <reference key="96"></reference>
    <unicode role="key" value="6"></unicode>
-   <reference key="94"></reference>
+   <reference key="99"></reference>
    <unicode role="key" value="9"></unicode>
-   <reference key="60"></reference>
+   <reference key="65"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -5261,25 +5556,25 @@ that may help or hinder the learner in the performance of the task."></unicode>
   <string role="key" value="anchor_nodes"></string>
   <list>
    <reference key="15"></reference>
-   <reference key="90"></reference>
+   <reference key="95"></reference>
    <reference key="18"></reference>
-   <reference key="60"></reference>
-   <reference key="46"></reference>
-   <reference key="41"></reference>
-   <reference key="31"></reference>
-   <reference key="36"></reference>
+   <reference key="65"></reference>
+   <reference key="51"></reference>
+   <reference key="45"></reference>
+   <reference key="33"></reference>
+   <reference key="39"></reference>
    <reference key="21"></reference>
-   <reference key="26"></reference>
-   <reference key="56"></reference>
+   <reference key="27"></reference>
+   <reference key="61"></reference>
+   <reference key="73"></reference>
+   <reference key="85"></reference>
+   <reference key="79"></reference>
    <reference key="68"></reference>
-   <reference key="80"></reference>
-   <reference key="74"></reference>
-   <reference key="63"></reference>
   </list>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="99"></reference>
+  <reference key="21"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -6315,11 +6610,23 @@ that may help or hinder the learner in the performance of the task."></unicode>
   <dictionary>
    <string role="key" value="15bd16ae1a6abbccc2fffd4007718f00"></string>
    <list>
-    <reference key="81"></reference>
+    <reference key="86"></reference>
+   </list>
+   <string role="key" value="16811bb7f58a01cfe119995540794b41"></string>
+   <list>
+    <reference key="46"></reference>
+   </list>
+   <string role="key" value="3777e19d031fb69fd822faf4bdba1975"></string>
+   <list>
+    <reference key="28"></reference>
    </list>
    <string role="key" value="577df2b7c751287ba4f8d23e9fcb7082"></string>
    <list>
-    <reference key="69"></reference>
+    <reference key="74"></reference>
+   </list>
+   <string role="key" value="6a92ab6854cf6376f233de32f13578e8"></string>
+   <list>
+    <reference key="40"></reference>
    </list>
    <string role="key" value="6bdb9eab52b131eac0be3a90111f5cfe"></string>
    <list>
@@ -6327,23 +6634,31 @@ that may help or hinder the learner in the performance of the task."></unicode>
    </list>
    <string role="key" value="80cd73b5bde751534617cabd0790c8f5"></string>
    <list>
-    <reference key="57"></reference>
+    <reference key="62"></reference>
+   </list>
+   <string role="key" value="8eac5618235d537179ad2206af39d7c0"></string>
+   <list>
+    <reference key="22"></reference>
    </list>
    <string role="key" value="9bb3719dd990190312ec09a678f1e97e"></string>
    <list>
-    <reference key="75"></reference>
+    <reference key="80"></reference>
    </list>
    <string role="key" value="bec08c70d0c8a4939214ca2f526729fe"></string>
    <list>
-    <reference key="47"></reference>
+    <reference key="52"></reference>
+   </list>
+   <string role="key" value="c94a2fa55d7bf189968398aa2d5a2ff8"></string>
+   <list>
+    <reference key="34"></reference>
    </list>
    <string role="key" value="e5a250c5c22ad4d5d975093e768d48f8"></string>
    <list>
-    <reference key="48"></reference>
+    <reference key="53"></reference>
    </list>
    <string role="key" value="f894526d77a9ba16083847d49f59ad02"></string>
    <list>
-    <reference key="84"></reference>
+    <reference key="89"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
